@@ -1,5 +1,5 @@
 # Teorihandboken - HTML & CSS (HC)
-Studerande: Förnamn Efternamn
+Studerande: Khaled Ahmed
 
 ## HC 1.1 HTML & CSS
 Beskriv rubriken här
