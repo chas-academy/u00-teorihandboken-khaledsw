@@ -19,4 +19,4 @@ W3C web standards, including the value of creating open web standards at the Wor
 
 ## HC 1.6 Optimering och validering av HTML & CSS
 HTML & CSS Validator can increase your website's quality score by helping you find and fix broken links, broken redirects, and misspelled words.
-Optimizing file size boils down to removing unnecessary characters to gets delivered quickly
+Optimizing file size boils down to removing unnecessary characters to gets delivered quickly.
