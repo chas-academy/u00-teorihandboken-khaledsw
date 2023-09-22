@@ -17,7 +17,7 @@ Object Oriented Programming is a programming style based on classes, objects and
 Document Object Model (DOM), a set of APIs for controlling HTML and styling information that makes heavy use of the Document object.
 
 ## JS 1.6 HTTP-requests
-HTTP request is made by a client, to a named host, which is located on a server. Often using methods like GET, POST, or PUT
+HTTP request is made by a client, to a named host, which is located on a server. Often using methods like GET, POST, or PUT.
 
 ## JS 1.7 Lexical scope
 Lexical scope is the ability for a function scope to access variables from the parent scope. JavaScript uses lexical scoping to resolve the variable names when a function is created inside another function.
