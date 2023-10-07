@@ -1,8 +1,8 @@
 # Teorihandboken - Backendutveckling (BE)
-Studerande: Förnamn Efternamn
+Studerande: Khaled Ahmed
 
 ## BE 1.1 PHP
-Beskriv rubriken här
+PHP is an open-source, interpreted, and object-oriented scripting language that can be executed at the server-side. 
 
 ## BE 1.2 OOP i PHP
 Beskriv rubriken här
