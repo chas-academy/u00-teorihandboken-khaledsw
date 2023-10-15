@@ -26,6 +26,11 @@ Preprocessors: Developers often use CSS preprocessors like Sass or Less to write
 
 Combining HTML and CSS effectively is essential for modern web development. HTML structures content logically, and CSS enhances its visual appeal. This separation of content and style improves maintainability and user experience. Proficiency in these technologies is fundamental for web developers, enabling them to build user-friendly, accessible, and responsive websites and applications.
 
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML
+            https://www.w3schools.com/html/default.asp
+            https://developer.mozilla.org/en-US/docs/Web/CSS
+            https://www.w3schools.com/css/default.asp
+
 
 ## HC 1.2 Responsiv design
 What is Responsive Design?
@@ -51,6 +56,11 @@ Responsive design is crucial for providing a consistent and user-friendly experi
 
 How Knowledge of Responsive Design Benefits Product Development
 Benefits: Understanding responsive design principles is essential for web developers and designers. It allows them to create websites and applications that provide a seamless user experience across different devices and screen sizes. This results in increased user satisfaction, better engagement, and broader reach for the product.
+
+reference: https://web.dev/articles/responsive-web-design-basics
+            https://www.w3schools.com/html/html_responsive.asp
+            https://developer.mozilla.org/en-US/search?q=Responsive%20Design
+            https://css-tricks.com/snippets/css/a-guide-to-flexbox/
  
 
 ## HC 1.3 Tillgänglighet inom webb
@@ -85,6 +95,10 @@ Web accessibility should be considered from the very beginning of a web project 
 How Knowledge of Web Accessibility Benefits Product Development
 
 Benefits: Understanding web accessibility principles and techniques is essential for web developers and designers. It allows them to create websites and web applications that are more inclusive, ethical, and legally compliant. Accessible products can reach a wider audience, enhance user satisfaction, and contribute to a more equitable online environment.
+
+Reference: https://www.w3.org/WAI/standards-guidelines/wcag/
+            https://webaim.org/
+            https://www.w3.org/WAI/resources/
 
 ## HC 1.4 Aktuella webbstandarder (gällande och kommande standarder)
 Current Web Standards:
@@ -133,6 +147,9 @@ Maintenance: Changes to common values (e.g., brand colors) can be made in one pl
 
 When to Use CSS Pre-processors?
 CSS pre-processors are beneficial for medium to large-scale web projects or when code maintainability and organization are priorities. They are especially useful in team collaborations where consistency and reusability are crucial.
+
+Reference: https://sass-lang.com/
+            https://lesscss.org/
 
 
 ## HC 1.6 Optimering och validering av HTML & CSS
